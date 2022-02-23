@@ -17,4 +17,15 @@ _____________________________________
     Week 01:
         Lesson Day 01
 
-* Lesson 01_01 to 01_13
+* Introduction to PHP
+* Lesson 01_01 to 01_03
+
+### Day 03
+
+    Week 01:
+        Lesson Day 01 to 03
+
+* Introduction to PHP
+* Lesson 01_04 to 01_05
+* Lesson 02_01 to 02_08
+* Lesson 03_01
