@@ -19,8 +19,8 @@ var_dump($images);
     <title>Image Gallery</title>
 </head>
 <body>
-</body>
 <?php foreach ($images as $image): ?>
     <img src="<?php echo $image; ?>">
 <?php endforeach; ?>
+</body>
 </html>
