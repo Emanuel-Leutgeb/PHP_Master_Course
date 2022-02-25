@@ -37,4 +37,12 @@ _____________________________________
         Introduction to PHP 2
 
 * Competence Check from PHP 1
-* Introduction to PHP 2
+* Introduction to OOPHP
+* Installing Composer
+
+### Day 05
+
+    Week 01:
+        Introduction to PHP 2
+
+* Introduction to OOPHP
