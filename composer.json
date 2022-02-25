@@ -1,0 +1,19 @@
+{
+  "name": "vendor_name/php_master_course",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "emanuelleutgeb",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "php_master_course\\": "Introduction_to_OOPHP"
+    }
+  }
+}
